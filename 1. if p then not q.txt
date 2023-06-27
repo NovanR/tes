@@ -1,0 +1,11 @@
+1. if p then not q
+
+sub kalimat: 
+p, q, not q, F
+
+2. if p then (q and r)
+
+sub kalimat:
+p, q, r, (q and r), F
+
+3.  
